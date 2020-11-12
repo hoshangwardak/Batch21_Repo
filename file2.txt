@@ -1,2 +1,3 @@
 More stuff has been added
-They are being cloned to the remote repository 
+They are being cloned to the remote repository
+adding more stuff to file1.txt

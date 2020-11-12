@@ -1,2 +1,3 @@
 Using the Atom directly
 More updates
+Adding more stuff to file3.txt
